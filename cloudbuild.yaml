@@ -27,4 +27,4 @@ steps:
 
 tags: ['cloud-build-spark']
 images: ['gcr.io/$PROJECT_ID/spark']
-timeout: 25m0s
+timeout: 50m0s
